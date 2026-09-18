@@ -1,5 +1,5 @@
 Documenting my Journey Starting from the Beginning of Freshman Year all the way to Senior Year.
 
-Current Status on Day 20: Buliding an 8-bit digital clock with a 74HC595 shift register and timer interrupts in Wokwi
+Current Status on Day 39: Burnt my finger!
 
-Check Wiki for current progress
+Check Wiki for more info on current progress
